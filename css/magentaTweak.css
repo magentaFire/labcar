@@ -1,0 +1,91 @@
+body {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+
+.text-header {
+  font-size: 12px;
+  color: #000;
+}
+
+.padding-header {
+  padding: 35px 0 35px 0;
+}
+
+.row-background-img {
+  background-image: url(../img/taxi.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  padding: 100px 0 100px 0;
+}
+
+.yellow-background {
+  background-color: #ffa62b;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.yellow-section1 {
+  padding: 25px 20px 25px 20px;
+}
+
+.text-yellow-section-header {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.middle-text {
+  font-size: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.underliner {
+  border-bottom: 1px solid white;
+  justify-content: center;
+}
+
+.yellow-padding-items {
+  margin: 30px 10px 30px 10px;
+}
+
+.yellow-section2 {
+  padding: 50px 40px
+}
+
+.centered {
+  position: relative;
+  top: 100px;
+  align-items: center;
+}
+
+.section-img-driver {
+  background-image: url(../img/conduce.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 100px 0 100px 0;
+}
+
+.yellow-btn {
+  background-color: #ffa62b;
+  color: white;
+}
+
+.forms {
+  width: 50%;
+  border: 1px solid white;
+  border-radius: 6px;
+  padding: 7px 15px;
+  background-color: #ffa62b;
+  font-size: 12px;
+}
+
+.yellow-margin-items {
+  margin: 20px 0 20px 0;
+}

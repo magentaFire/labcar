@@ -83,9 +83,71 @@ body {
   border-radius: 6px;
   padding: 7px 15px;
   background-color: #ffa62b;
+  color: white;
   font-size: 12px;
 }
 
 .yellow-margin-items {
   margin: 20px 0 20px 0;
+}
+
+iframe {
+  padding: 7px;
+  border: 1px solid white;
+}
+
+.icons-margin {
+  margin-right: 15px;
+}
+
+.gray-background {
+  background-color: #292929;
+  padding: 50px 50px 75px 50px;
+}
+
+.logoBlanco-container {
+  padding: 20px 0 20px 0;
+  border-bottom: 1px solid white;
+}
+
+i {
+  color: white;
+  font-size: 17px;
+  margin: 0 3px 0 3px;
+}
+
+.lista-footer {
+  list-style: none;
+}
+
+.lista-footer > li {
+  margin: 15px 0 15px 0;
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.footer-bottom-pos {
+  height: 270px;
+  display: flex;
+  align-items: flex-end;
+}
+
+.footer-imgs {
+  height: 270px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.footer-img {
+  width: 60%;
+  margin: 6px 0 6px 0;
+}
+
+.user-icon {
+  font-size: 50px;
+  color: black;
+  display: flex;
+  justify-content: center;
 }

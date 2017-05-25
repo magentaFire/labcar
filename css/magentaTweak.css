@@ -151,3 +151,11 @@ i {
   display: flex;
   justify-content: center;
 }
+
+.form-font {
+  font-size: 11px;
+}
+
+.form-padding{
+  padding: 3px 0;
+}
